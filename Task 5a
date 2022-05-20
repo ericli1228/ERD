@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-20T09:54:25.853Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="gmRstkHM_uvFwxROH45R" version="18.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-20T23:18:02.114Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="C6qAEff4fkamtMCnKBpD" version="18.0.5" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1038" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="Q8uqNzgym-I9kt8Km_sw-4" value="client" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="600" y="320" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Q8uqNzgym-I9kt8Km_sw-5" value="join time" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4" parent="1" vertex="1">
+        <mxCell id="Q8uqNzgym-I9kt8Km_sw-5" value="join date" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="335" y="260" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q8uqNzgym-I9kt8Km_sw-6" value="description" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
@@ -67,7 +67,7 @@
         <mxCell id="Q8uqNzgym-I9kt8Km_sw-21" value="" style="line;strokeWidth=2;direction=south;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="300" width="10" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Q8uqNzgym-I9kt8Km_sw-22" value="leave time" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="Q8uqNzgym-I9kt8Km_sw-22" value="leave date" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="370" y="220" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q8uqNzgym-I9kt8Km_sw-23" value="" style="line;strokeWidth=2;direction=south;html=1;" parent="1" vertex="1">
